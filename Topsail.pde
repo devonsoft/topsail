@@ -112,7 +112,6 @@ class Ocean
 
 class WaterTile
 {
-  PImage img;
   float x;
   float y;
   int row;
@@ -148,7 +147,6 @@ class WaterTile
   
   WaterTile(float xx, float yy, int i, int j)
   {
-    img = requestImage("water.png");
     x = xx;
     y = yy;
     startY = y;
