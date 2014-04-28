@@ -1,3 +1,5 @@
+/* OpenProcessing Tweak of *@*http://www.openprocessing.org/sketch/5671*@* */
+
 Ocean ocean;
 //var oceanSound = new Audio("ocean.wav");
 
